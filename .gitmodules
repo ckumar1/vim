@@ -1,0 +1,3 @@
+[submodule "supertab"]
+	path = supertab
+	url = git://github.com/vim-scripts/supertab.git
